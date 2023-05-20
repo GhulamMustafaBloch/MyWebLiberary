@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyWebLiberary/static/css/main.9af86de2.css",
-    "main.js": "/MyWebLiberary/static/js/main.5991a0f0.js",
+    "main.js": "/MyWebLiberary/static/js/main.68eb31c6.js",
     "static/media/Jameel-Noori-Nastaleeq-Regular.ttf": "/MyWebLiberary/static/media/Jameel-Noori-Nastaleeq-Regular.a1d0cd1fea67e7ad50f3.ttf",
     "static/media/khatam-banner.png": "/MyWebLiberary/static/media/khatam-banner.15b090fb085811eb9043.png",
     "static/media/Akram-Unicode.ttf": "/MyWebLiberary/static/media/Akram-Unicode.9420c0bd232404fa111b.ttf",
@@ -13,10 +13,10 @@
     "static/media/Untitled3.jpg": "/MyWebLiberary/static/media/Untitled3.80867c580aa54f945c9f.jpg",
     "index.html": "/MyWebLiberary/index.html",
     "main.9af86de2.css.map": "/MyWebLiberary/static/css/main.9af86de2.css.map",
-    "main.5991a0f0.js.map": "/MyWebLiberary/static/js/main.5991a0f0.js.map"
+    "main.68eb31c6.js.map": "/MyWebLiberary/static/js/main.68eb31c6.js.map"
   },
   "entrypoints": [
     "static/css/main.9af86de2.css",
-    "static/js/main.5991a0f0.js"
+    "static/js/main.68eb31c6.js"
   ]
 }
