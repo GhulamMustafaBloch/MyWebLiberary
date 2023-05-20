@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyWebLiberary/static/css/main.9af86de2.css",
+    "main.js": "/MyWebLiberary/static/js/main.5991a0f0.js",
+    "static/media/Jameel-Noori-Nastaleeq-Regular.ttf": "/MyWebLiberary/static/media/Jameel-Noori-Nastaleeq-Regular.a1d0cd1fea67e7ad50f3.ttf",
+    "static/media/khatam-banner.png": "/MyWebLiberary/static/media/khatam-banner.15b090fb085811eb9043.png",
+    "static/media/Akram-Unicode.ttf": "/MyWebLiberary/static/media/Akram-Unicode.9420c0bd232404fa111b.ttf",
+    "static/media/monogram.png": "/MyWebLiberary/static/media/monogram.72e6488ca856f809ea5f.png",
+    "static/media/images3.jpg": "/MyWebLiberary/static/media/images3.8bc1bc816eb036f35f34.jpg",
+    "static/media/images.jpg": "/MyWebLiberary/static/media/images.6c1ca213039b05772929.jpg",
+    "static/media/Untitled2.jpg": "/MyWebLiberary/static/media/Untitled2.7a293bdaa58702b4b4d2.jpg",
+    "static/media/images2.jpg": "/MyWebLiberary/static/media/images2.077fe5781ae4da3bbb6a.jpg",
+    "static/media/Untitled3.jpg": "/MyWebLiberary/static/media/Untitled3.80867c580aa54f945c9f.jpg",
+    "index.html": "/MyWebLiberary/index.html",
+    "main.9af86de2.css.map": "/MyWebLiberary/static/css/main.9af86de2.css.map",
+    "main.5991a0f0.js.map": "/MyWebLiberary/static/js/main.5991a0f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af86de2.css",
+    "static/js/main.5991a0f0.js"
+  ]
+}
